@@ -1,1 +1,1 @@
-as
+asgit add .
