@@ -1,1 +1,0 @@
-asgit add .
