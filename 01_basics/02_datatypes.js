@@ -18,3 +18,5 @@ let selectedColor = null;
 // symbol => unique identifier
 // object => key-value pair
 
+ console.log(typeof undefined);
+console.log (typeof null); //object
