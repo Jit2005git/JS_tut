@@ -12,3 +12,9 @@ let selectedColor = null;
 //number => 2 to power 53
 // bigint
 // string =>""
+// boolean => true/false
+// undefined => variable is declared but not assigned
+// null => variable is declared but assigned to null
+// symbol => unique identifier
+// object => key-value pair
+
