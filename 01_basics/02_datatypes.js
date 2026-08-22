@@ -9,3 +9,4 @@ let isApproved = true;
 let firstName = undefined;
 let selectedColor = null;
 
+//number => 2 to power 53
