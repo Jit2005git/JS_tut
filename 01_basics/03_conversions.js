@@ -9,3 +9,14 @@ console.log(valueInNumber); //33
 //"33" => 33
 //"33abc" => NaN
 //true => 1, false=> 0
+
+let isboolean=1
+let booleanValue=Boolean(isboolean)
+
+console.log(booleanValue); //true
+//""=> false and "..." => true
+
+let someNumber=33
+let stringValue=String(someNumber)
+console.log(stringValue); // "33"
+console.log(typeof stringValue); //string
