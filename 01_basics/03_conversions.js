@@ -1,4 +1,4 @@
-let score="33aa"
+let score=null
 console.log(typeof score); //string
 console.log(typeof(score));
 
