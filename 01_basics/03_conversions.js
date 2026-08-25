@@ -19,4 +19,4 @@ console.log(booleanValue); //true
 let someNumber=33
 let stringValue=String(someNumber)
 console.log(stringValue); // "33"
-console.log(typeof stringValue); //string
+console.log(typeof stringValue); //string 
