@@ -27,3 +27,4 @@ console.log(typeof stringValue); //string
 let value =3
 let negValue= -value
 console.log(negValue); // -3
+console.log(2+2); // 4
