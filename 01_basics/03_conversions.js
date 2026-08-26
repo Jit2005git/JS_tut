@@ -28,3 +28,8 @@ let value =3
 let negValue= -value
 console.log(negValue); // -3
 console.log(2+2); // 4
+
+let str1="Hello"
+let str2="Jit"
+let str3=str1+str2
+console.log(str3); // "HelloJit"
