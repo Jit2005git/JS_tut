@@ -20,3 +20,10 @@ let someNumber=33
 let stringValue=String(someNumber)
 console.log(stringValue); // "33"
 console.log(typeof stringValue); //string 
+
+
+//#########################################//
+
+let value =3
+let negValue= -value
+console.log(negValue); // -3
