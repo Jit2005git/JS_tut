@@ -41,3 +41,7 @@ console.log(1+1+"2"); // "22" if string is present at the end then it will norma
 console.log(+true); // 1
 console.log(+false); // 0
 console.log(+"")
+
+let gameCounter =100
+++gameCounter;
+console.log(gameCounter); // 101
