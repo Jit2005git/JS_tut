@@ -33,3 +33,6 @@ let str1="Hello"
 let str2="Jit"
 let str3=str1+str2
 console.log(str3); // "HelloJit"
+
+console.log("1"+1+2); // "112"
+console.log(1+1+"2"); // "22"
