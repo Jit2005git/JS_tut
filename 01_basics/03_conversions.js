@@ -36,3 +36,8 @@ console.log(str3); // "HelloJit"
 
 console.log("1"+1+2); // "112" if string is present at the start then it will convert the rest of the numbers into string and print it as a string
 console.log(1+1+"2"); // "22" if string is present at the end then it will normally printed with the summation of the previous  numbers 
+
+
+console.log(+true); // 1
+console.log(+false); // 0
+console.log(+"")
