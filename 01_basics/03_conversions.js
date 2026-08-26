@@ -34,5 +34,5 @@ let str2="Jit"
 let str3=str1+str2
 console.log(str3); // "HelloJit"
 
-console.log("1"+1+2); // "112"
-console.log(1+1+"2"); // "22"
+console.log("1"+1+2); // "112" if string is present at the start then it will convert the rest of the numbers into string and print it as a string
+console.log(1+1+"2"); // "22" if string is present at the end then it will normally printed with the summation of the previous  numbers 
